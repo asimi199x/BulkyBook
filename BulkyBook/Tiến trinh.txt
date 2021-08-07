@@ -1,0 +1,6 @@
+- Sử dụng mẫu front-end template có sẵn của microsoft 
+- có gọi API của facebook, google để sign up và login
+- Dùng Repository pattern và unit of work cho lưu trữ dữ liệu 
+- Các thao tác cơ bản lên model như thêm, sửa, xóa
+- Có gọi API của stripe - cho việc thanh toán 
+- Có Dùng thư viện MailKit để gửi mail SMTP
